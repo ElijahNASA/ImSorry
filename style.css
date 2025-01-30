@@ -1,6 +1,6 @@
 .container { display: inline-block; }
 .text {
-    font-size: 5em;
+    font-size: 3em;
     letter-spacing: 10px;
     font-family: monospace;
     border-right: 5px solid;
